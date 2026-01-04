@@ -14,4 +14,8 @@ models/*.keras
 # Metrics
 metrics/*.json
 
+# SSH
+*.pub
+ssh
+
 
