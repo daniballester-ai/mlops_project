@@ -18,6 +18,8 @@ metrics/*.json
 *.pub
 ssh
 
+# MLflow
+mlruns
 
 
 
